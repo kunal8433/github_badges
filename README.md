@@ -1,2 +1,4 @@
-Github repo
+# GitHub Badges
+
+>>> All badges are here <<<
 
